@@ -5,7 +5,7 @@ Coding the practice exercise given by Nick during his [Safari Online Training](h
 
 ## Unittest output
 
-...
+```
 $ python -m unittest -v unittests/triangle_test.py
 test_area (unittests.triangle_test.TriangleTest) ... ok
 test_is_rightangle (unittests.triangle_test.TriangleTest) ... ok
@@ -16,4 +16,4 @@ test_perimeter (unittests.triangle_test.TriangleTest) ... ok
 Ran 4 tests in 0.000s
 
 OK
-...
+```
