@@ -1,5 +1,5 @@
 """
-Author: Gerard Sharpe Based of 
+Author: Gerard Sharpe
 File: triangle.py
 Purpose: Defines a Triangle object, inherited from the abstract class Shape.
 Credit:
