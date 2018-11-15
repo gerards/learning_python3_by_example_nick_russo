@@ -1,7 +1,9 @@
-# Info
+## Info
 
-Coding the practice exercise given by Nick during his [Safari Online Training](https://www.safaribooksonline.com/live-training/courses/learning-python-3-by-example/0636920223825/)
+Coding the practice exercise given by Nick during his Safari Online Training.
 
+
+Nick's [Safari Online Training](https://www.safaribooksonline.com/live-training/courses/learning-python-3-by-example/0636920224969/) is running again in Jan 11th if interested, I highly recommended if you are getting into Python or would like a refresher!
 
 ## Unittest output
 
